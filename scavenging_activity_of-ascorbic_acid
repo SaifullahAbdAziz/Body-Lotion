@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Scavenging Activity of Ascorbic Acid</title>
+    <title>Bokeh Plot</title>
     <style>
       html, body {
         box-sizing: border-box;
@@ -58,6 +58,6 @@
         if (document.readyState != "loading") fn();
         else document.addEventListener("DOMContentLoaded", fn);
       })();
-       </script>
+    </script>
   </body>
 </html>
